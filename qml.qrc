@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyButton.qml</file>
+        <file>images/AAP.png</file>
+        <file>images/AIADMK.png</file>
+        <file>images/BJP.png</file>
+        <file>images/BSP.png</file>
+        <file>images/CPI.png</file>
+        <file>images/INC.png</file>
+        <file>images/NOTA.png</file>
+        <file>images/RJD.png</file>
+        <file>images/SP.png</file>
+        <file>images/TMC.png</file>
+    </qresource>
+</RCC>
